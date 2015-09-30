@@ -1,0 +1,7 @@
+/log
+/target/*
+/project
+
+# Intellij
+.idea
+*.iml
