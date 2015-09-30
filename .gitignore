@@ -1,6 +1,8 @@
 /log
-/target/*
-/project
+*.log
+project/target
+target
+
 
 # Intellij
 .idea
